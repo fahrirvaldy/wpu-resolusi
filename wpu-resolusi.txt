@@ -1,3 +1,4 @@
 wpu-resolusi
 - konsisten 
 - bisa mengatur waktu
+- 0987879
