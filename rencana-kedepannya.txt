@@ -5,3 +5,4 @@ RENCANA KEDEPANNYA
 - membuat apk dekstop
 - membuat multi flatform
 - belajar kali linux
+
